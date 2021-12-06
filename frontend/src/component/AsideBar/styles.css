@@ -1,0 +1,44 @@
+.logo {
+  height: 5vw;
+  min-height: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5vh;
+}
+
+.aside {
+  background-color: #b7bdca5c;
+  width: 10vw;
+  min-width: 100px;
+  max-width: 200px;
+  height: 100%;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.aside-menu { 
+  display: flex;
+  flex-direction: column;
+}
+
+.aside-menu > svg{
+  margin-left:auto;
+  margin-right:auto; 
+  font-size: 30px; 
+  cursor: pointer;
+  color:#dcdbdb;
+  transition: transform 0.2s;
+}
+
+.aside-menu > svg.selected{
+  color: white; 
+}
+
+.aside-menu > svg:hover{
+  color: white;
+  transform: scale(1.2)
+}

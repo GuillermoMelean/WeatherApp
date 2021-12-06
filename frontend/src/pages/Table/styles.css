@@ -1,0 +1,7 @@
+.content > div {
+    overflow-y: auto;
+}
+
+.weather-image{
+    border-radius: 100%;
+}
