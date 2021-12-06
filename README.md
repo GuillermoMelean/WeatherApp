@@ -1,5 +1,5 @@
 <h1>
-    <b>Wallet App!</b> ☀️🌤️🌦️☁️
+    <b>Weather App!</b> ☀️🌤️🌦️☁️
 </h4> 
 
 ### Tecnologias usadas
