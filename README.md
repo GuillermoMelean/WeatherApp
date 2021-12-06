@@ -46,7 +46,7 @@ $ npm start
 5. Caso esta janela não abra automaticamente, introduza este URL no seu browser [http://localhost:3000/](http://localhost:3000/)
 
 
-### :memo: Licença
+### Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
