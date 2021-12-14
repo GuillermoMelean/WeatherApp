@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Projeto
 
-<b>Wallet App</b> é um projeto desenvolvido como <b>challenge</b> e visa ajudar a obter a informação da temperatura por cidade.
+<b>Weather App</b> é um projeto desenvolvido como <b>challenge</b> e visa ajudar a obter a informação da temperatura por cidade.
 
 ### Como contribuir
 
