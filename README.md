@@ -1,5 +1,5 @@
 <h1>
-    <b>Wallet App!</b> ☀️🌤️🌦️☁️
+    <b>Weather App!</b> ☀️🌤️🌦️☁️
 </h4> 
 
 ### Tecnologias usadas
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Projeto
 
-<b>Wallet App</b> é um projeto desenvolvido como <b>challenge</b> e visa ajudar a obter a informação da temperatura por cidade.
+<b>Weather App</b> é um projeto desenvolvido como <b>challenge</b> e visa ajudar a obter a informação da temperatura por cidade.
 
 ### Como contribuir
 
@@ -46,9 +46,7 @@ $ npm start
 5. Caso esta janela não abra automaticamente, introduza este URL no seu browser [http://localhost:3000/](http://localhost:3000/)
 
 
-### :memo: Licença
-
-### :install: 
+### Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
